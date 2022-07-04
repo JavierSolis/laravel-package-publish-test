@@ -1,6 +1,6 @@
 <?php
 
-namespace JavierLibs\LaravelPublishTestPackage;
+namespace JavierSolis\LaravelPublishTestPackage;
 
 use Illuminate\Support\ServiceProvider;
 

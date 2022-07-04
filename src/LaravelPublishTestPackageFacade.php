@@ -1,11 +1,11 @@
 <?php
 
-namespace JavierLibs\LaravelPublishTestPackage;
+namespace JavierSolis\LaravelPublishTestPackage;
 
 use Illuminate\Support\Facades\Facade;
 
 /**
- * @see \JavierLibs\LaravelPublishTestPackage\Skeleton\SkeletonClass
+ * @see \JavierSolis\LaravelPublishTestPackage\Skeleton\SkeletonClass
  */
 class LaravelPublishTestPackageFacade extends Facade
 {
