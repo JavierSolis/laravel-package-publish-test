@@ -1,6 +1,6 @@
 <?php
 
-namespace JavierLibs\LaravelPublishTestPackage;
+namespace JavierSolis\LaravelPublishTestPackage;
 
 class LaravelPublishTestPackage
 {
